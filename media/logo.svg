@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="200" height="200">
+  <circle cx="250" cy="250" r="240" fill="orange" stroke="red" stroke-width="10" />
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="120" font-weight="bold" fill="white">
+    HOT
+  </text>
+  <path d="M250 100 C270 80, 300 120, 260 160 S240 220, 230 190 S200 120, 250 100" fill="red" />
+  <path d="M250 140 C260 130, 280 150, 255 170 S240 200, 235 180 S230 150, 250 140" fill="yellow" />
+</svg>
