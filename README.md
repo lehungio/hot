@@ -2,90 +2,9 @@
 	<img width="500" height="350" src="media/logo2.svg" alt="hot">
 	<br>
 	<br>
-	<br>
-	<br>
-    <!--
-	<div>
-		<sub>Check out my macOS app</sub>
-		<br>
-		<h2>
-			<a href="https://lehungio.com/menu-bar-spacing">Menu Bar Spacing</a>
-			<br>
-			<sup>Customize the gap between menu bar items on macOS</sup>
-		</h2>
-	</div>
-	<br>
-	<br>
-	<br>
-	<br>
+	<br>	
+ <!--
 	<hr>
-	<p>
-		<p>
-			<sup>
-				<a href="https://github.com/todo/sponsors/lehungio">My open source work is supported by the community</a>
-			</sup>
-		</p>
-		<sup>Special thanks to:</sup>
-		<br>
-		<br>
-		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=hot&utm_source=github">
-			<div>
-				<img src="https://lehungio.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
-			</div>
-			<b>Your app, enterprise-ready.</b>
-			<div>
-				<sub>Start selling to enterprise customers with just a few lines of code.</sub>
-				<br>
-				<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<a href="https://transloadit.com?utm_source=lehungio&utm_medium=referral&utm_campaign=sponsorship&utm_content=hot">
-			<picture>
-				<source width="340" media="(prefers-color-scheme: dark)" srcset="https://lehungio.com/assets/thanks/transloadit-logo-dark.svg">
-				<source width="340" media="(prefers-color-scheme: light)" srcset="https://lehungio.com/assets/thanks/transloadit-logo.svg">
-				<img width="340" src="https://lehungio.com/assets/thanks/transloadit-logo.svg" alt="Transloadit logo">
-			</picture>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://logto.io/?ref=sindre">
-			<div>
-				<picture>
-					<source width="200" media="(prefers-color-scheme: dark)" srcset="https://lehungio.com/assets/thanks/logto-logo-dark.svg?x">
-					<source width="200" media="(prefers-color-scheme: light)" srcset="https://lehungio.com/assets/thanks/logto-logo-light.svg?x">
-					<img width="200" src="https://lehungio.com/assets/thanks/logto-logo-light.svg?x" alt="Logto logo">
-				</picture>
-			</div>
-			<b>The better identity infrastructure for developers</b>
-			<div>
-				<sup>Logto is an open-source Auth0 alternative designed for every app.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<a href="https://encore.dev?utm_campaign=github_repo&utm_medium=referral&utm_content=sindre&utm_source=github">
-			<div>
-				<picture>
-					<source width="230" media="(prefers-color-scheme: dark)" srcset="https://lehungio.com/assets/thanks/encore-logo-dark.svg">
-					<source width="230" media="(prefers-color-scheme: light)" srcset="https://lehungio.com/assets/thanks/encore-logo-light.svg">
-					<img width="230" src="https://lehungio.com/assets/thanks/encore-logo-light.svg" alt="Encore logo">
-				</picture>
-			</div>
-			<b>The development platform for building type-safe distributed systems</b>
-			<div>
-				<sup>End-to-end tooling from local development to automated DevOps and infrastructure in your AWS/GCP.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-	</p>
-	<hr>
-	<br>
-	<br>
 	<br>
 	<br>
 -->
@@ -100,13 +19,15 @@
 </p>
 <br>
 <br>
+-->
+
 <p align="center">
-	Just type <a href="https://hot.re"><code>hot.re</code></a> to go here. Check out my <a href="https://lehungio.com/apps">apps</a> and follow me on <a href="https://twitter.com/lehungio">Twitter</a>.
+ 	Go here by just typing 🔥 <a href="http://hotonline.site"><code>hotonline.site</code></a> 🔥 at your browser. 
+	<!-- Check out my <a href="https://lehungio.com/apps">apps</a> and follow me on <a href="https://twitter.com/lehungio">Twitter</a>. -->
 </p>
 <br>
 <br>
 <br>
--->
 
 ## Contents
 
