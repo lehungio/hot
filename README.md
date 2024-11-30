@@ -31,187 +31,180 @@
 
 ## Contents
 
+- [Back-End Development](#back-end-development)
+- [Big Data](#big-data)
+- [Books](#books)
+- [Business](#business)
+- [Computer Science](#computer-science)
+- [Content Management Systems](#content-management-systems)
+- [Databases](#databases)
+- [Decentralized Systems](#decentralized-systems)
+- [Development Environment](#development-environment)
+- [Editors](#editors)
+- [Entertainment](#entertainment)
+- [Events](#events)
+- [Front-End Development](#front-end-development)
+- [Gaming](#gaming)
+- [Hardware](#hardware)
+- [Health and Social Science](#health-and-social-science)
+- [Learn](#learn)
+- [Media](#media)
+- [Miscellaneous](#miscellaneous)
+- [Networking](#networking)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
-- [Security](#security)
-- [Content Management Systems](#content-management-systems)
-- [Hardware](#hardware)
-- [Business](#business)
-- [Work](#work)
-- [Networking](#networking)
-- [Decentralized Systems](#decentralized-systems)
-- [Health and Social Science](#health-and-social-science)
-- [Events](#events)
-- [Testing](#testing)
-- [Miscellaneous](#miscellaneous)
 - [Related](#related)
+- [Security](#security)
+- [Testing](#testing)
+- [Theory](#theory)
+- [Work](#work)
 
 ## Platforms
 
-- [Node.js](https://github.com/todo/lehungio/hot-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-	- [Cross-Platform](https://github.com/todo/bcoe/hot-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-- [Frontend Development](https://github.com/todo/dypsilon/frontend-dev-bookmarks#readme)
-- [iOS](https://github.com/todo/vsouza/hot-ios#readme) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/todo/JStumpp/hot-android#readme) - Mobile operating system developed by Google.
-- [IoT & Hybrid Apps](https://github.com/todo/weblancaster/hot-IoT-hybrid#readme)
-- [Electron](https://github.com/todo/lehungio/hot-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-- [Cordova](https://github.com/todo/busterc/hot-cordova#readme) - JavaScript API for hybrid apps.
-- [React Native](https://github.com/todo/jondot/hot-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-- [Xamarin](https://github.com/todo/XamSome/hot-xamarin#readme) - Mobile app development IDE, testing, and distribution.
-- [Linux](https://github.com/todo/inputsh/hot-linux#readme)
-	- [Containers](https://github.com/todo/Friz-zy/hot-linux-containers#readme)
-	- [eBPF](https://github.com/todo/zoidbergwill/hot-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
-	- [Arch-based Projects](https://github.com/todo/PandaFoss/hot-Arch#readme) - Linux distributions and projects based on Arch Linux.
-	- [AppImage](https://github.com/todo/AppImage/hot-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
-- macOS - Operating system for Apple's Mac computers.
-	- [Screensavers](https://github.com/todo/agarrharr/hot-macos-screensavers#readme)
-	- [Apps](https://github.com/todo/jaywcjlove/hot-mac#readme)
-	- [Open Source Apps](https://github.com/todo/serhii-londar/open-source-mac-os-apps#readme)
-- [watchOS](https://github.com/todo/yenchenlin/hot-watchos#readme) - Operating system for the Apple Watch.
-- [JVM](https://github.com/todo/deephacks/hot-jvm#readme)
-- [Salesforce](https://github.com/todo/mailtoharshit/hot-salesforce#readme)
-- [Amazon Web Services](https://github.com/todo/donnemartin/hot-aws#readme)
-- [Windows](https://github.com/todo/hot-Windows/hot#readme)
-	- [PowerToys Run Plugins](https://github.com/todo/hlaueriksson/hot-powertoys-run-plugins#readme) - Community plugins for the Windows quick launcher.
-- [IPFS](https://github.com/todo/ipfs/hot-ipfs#readme) - P2P hypermedia protocol.
-- [Fuse](https://github.com/todo/fuse-compound/hot-fuse#readme) - Mobile development tools.
-- [Heroku](https://github.com/todo/ianstormtaylor/hot-heroku#readme) - Cloud platform as a service.
-- [Raspberry Pi](https://github.com/todo/thibmaek/hot-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
-- [Qt](https://github.com/todo/JesseTG/hot-qt#readme) - Cross-platform GUI app framework.
-- [WebExtensions](https://github.com/todo/fregante/hot-WebExtensions#readme) - Cross-browser extension system.
-- [Smart TV](https://github.com/todo/vitalets/hot-smart-tv#readme) - Create apps for different TV platforms.
-- [GNOME](https://github.com/todo/Kazhnuz/hot-gnome#readme) - Simple and distraction-free desktop environment for Linux.
-- [KDE](https://github.com/todo/francoism90/hot-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
 - [.NET](https://github.com/todo/quozd/hot-dotnet#readme)
-	- [Core](https://github.com/todo/thangchung/hot-dotnet-core#readme)
-	- [Roslyn](https://github.com/todo/ironcev/hot-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
-- [Amazon Alexa](https://github.com/todo/miguelmota/hot-amazon-alexa#readme) - Virtual home assistant.
-- [DigitalOcean](https://github.com/todo/jonleibowitz/hot-digitalocean#readme) - Cloud computing platform designed for developers.
-- [Flutter](https://github.com/todo/Solido/hot-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
-- [Home Assistant](https://github.com/todo/frenck/hot-home-assistant#readme) - Open source home automation that puts local control and privacy first.
-- [IBM Cloud](https://github.com/todo/victorshinya/hot-ibmcloud#readme) - Cloud platform for developers and companies.
-- [Firebase](https://github.com/todo/jthegedus/hot-firebase#readme) - App development platform built on Google Cloud.
-- [Robot Operating System 2.0](https://github.com/todo/fkromer/hot-ros2#readme) - Set of software libraries and tools that help you build robot apps.
-- [Adafruit IO](https://github.com/todo/adafruit/hot-adafruitio#readme) - Visualize and store data from any device.
-- [Cloudflare](https://github.com/todo/irazasyed/hot-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+  - [Core](https://github.com/todo/thangchung/hot-dotnet-core#readme)
+  - [Roslyn](https://github.com/todo/ironcev/hot-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 - [Actions on Google](https://github.com/todo/ravirupareliya/hot-actions-on-google#readme) - Developer platform for Google Assistant.
-- [ESP](https://github.com/todo/agucova/hot-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
-- [Deno](https://github.com/todo/denolib/hot-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
-- [DOS](https://github.com/todo/balintkissdev/hot-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
-- [Nix](https://github.com/todo/nix-community/hot-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
-- [Integration](https://github.com/todo/stn1slv/hot-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
-- [Node-RED](https://github.com/todo/naimo84/hot-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
-- [Low Code](https://github.com/todo/zenitysec/hot-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
-- [Capacitor](https://github.com/todo/riderx/hot-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
+- [Adafruit IO](https://github.com/todo/adafruit/hot-adafruitio#readme) - Visualize and store data from any device.
+- [Amazon Alexa](https://github.com/todo/miguelmota/hot-amazon-alexa#readme) - Virtual home assistant.
+- [Amazon Web Services](https://github.com/todo/donnemartin/hot-aws#readme)
+- [Android](https://github.com/todo/JStumpp/hot-android#readme) - Mobile operating system developed by Google.
 - [ArcGIS Developer](https://github.com/todo/Esri/hot-arcgis-developer#readme) - Mapping and location analysis platform for developers.
 - [Bluetooth Low Energy](https://github.com/todo/dotintent/hot-ble#readme) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
-- [Uno Platform](https://github.com/todo/MartinZikmund/hot-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
+- [Capacitor](https://github.com/todo/riderx/hot-capacitor#readme) - Cross-platform open-source runtime for building Web Native apps.
+- [Cloudflare](https://github.com/todo/irazasyed/hot-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+- [Cordova](https://github.com/todo/busterc/hot-cordova#readme) - JavaScript API for hybrid apps.
+- [Cross-Platform](https://github.com/todo/bcoe/hot-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
+- [Deno](https://github.com/todo/denolib/hot-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
+- [DigitalOcean](https://github.com/todo/jonleibowitz/hot-digitalocean#readme) - Cloud computing platform designed for developers.
+- [DOS](https://github.com/todo/balintkissdev/hot-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
+- [Electron](https://github.com/todo/lehungio/hot-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
+- [ESP](https://github.com/todo/agucova/hot-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
+- [Firebase](https://github.com/todo/jthegedus/hot-firebase#readme) - App development platform built on Google Cloud.
+- [Flutter](https://github.com/todo/Solido/hot-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+- [Frontend Development](https://github.com/todo/dypsilon/frontend-dev-bookmarks#readme)
+- [Fuse](https://github.com/todo/fuse-compound/hot-fuse#readme) - Mobile development tools.
+- [GNOME](https://github.com/todo/Kazhnuz/hot-gnome#readme) - Simple and distraction-free desktop environment for Linux.
 - [Google Cloud](https://github.com/todo/GoogleCloudPlatform/hot-google-cloud#readme) - Cloud computing services by Google.
+- [Heroku](https://github.com/todo/ianstormtaylor/hot-heroku#readme) - Cloud platform as a service.
+- [Home Assistant](https://github.com/todo/frenck/hot-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+- [IBM Cloud](https://github.com/todo/victorshinya/hot-ibmcloud#readme) - Cloud platform for developers and companies.
+- [Integration](https://github.com/todo/stn1slv/hot-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
+- [IoT & Hybrid Apps](https://github.com/todo/weblancaster/hot-IoT-hybrid#readme)
+- [iOS](https://github.com/todo/vsouza/hot-ios#readme) - Mobile operating system for Apple phones and tablets.
+- [IPFS](https://github.com/todo/ipfs/hot-ipfs#readme) - P2P hypermedia protocol.
+- [JVM](https://github.com/todo/deephacks/hot-jvm#readme)
+- [KDE](https://github.com/todo/francoism90/hot-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
+- [Linux](https://github.com/todo/inputsh/hot-linux#readme)
+  - [AppImage](https://github.com/todo/AppImage/hot-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
+  - [Arch-based Projects](https://github.com/todo/PandaFoss/hot-Arch#readme) - Linux distributions and projects based on Arch Linux.
+  - [Containers](https://github.com/todo/Friz-zy/hot-linux-containers#readme)
+  - [eBPF](https://github.com/todo/zoidbergwill/hot-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+- [Low Code](https://github.com/todo/zenitysec/hot-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
+- macOS - Operating system for Apple's Mac computers.
+  - [Apps](https://github.com/todo/jaywcjlove/hot-mac#readme)
+  - [Open Source Apps](https://github.com/todo/serhii-londar/open-source-mac-os-apps#readme)
+  - [Screensavers](https://github.com/todo/agarrharr/hot-macos-screensavers#readme)
+- [Nix](https://github.com/todo/nix-community/hot-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+- [Node-RED](https://github.com/todo/naimo84/hot-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
+- [Node.js](https://github.com/todo/lehungio/hot-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+  - [Cross-Platform](https://github.com/todo/bcoe/hot-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
+- [Qt](https://github.com/todo/JesseTG/hot-qt#readme) - Cross-platform GUI app framework.
+- [Raspberry Pi](https://github.com/todo/thibmaek/hot-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
+- [React Native](https://github.com/todo/jondot/hot-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
+- [Robot Operating System 2.0](https://github.com/todo/fkromer/hot-ros2#readme) - Set of software libraries and tools that help you build robot apps.
+- [Salesforce](https://github.com/todo/mailtoharshit/hot-salesforce#readme)
+- [Smart TV](https://github.com/todo/vitalets/hot-smart-tv#readme) - Create apps for different TV platforms.
+- [Uno Platform](https://github.com/todo/MartinZikmund/hot-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
+- [watchOS](https://github.com/todo/yenchenlin/hot-watchos#readme) - Operating system for the Apple Watch.
+- [WebExtensions](https://github.com/todo/fregante/hot-WebExtensions#readme) - Cross-browser extension system.
+- [Windows](https://github.com/todo/hot-Windows/hot#readme)
+  - [PowerToys Run Plugins](https://github.com/todo/hlaueriksson/hot-powertoys-run-plugins#readme) - Community plugins for the Windows quick launcher.
+
 
 ## Programming Languages
 
-- [JavaScript](https://github.com/todo/sorrycc/hot-javascript#readme)
-	- [Promises](https://github.com/todo/wbinnssmith/hot-promises#readme)
-	- [Standard Style](https://github.com/todo/standard/hot-standard#readme) - Style guide and linter.
-	- [Must Watch Talks](https://github.com/todo/bolshchikov/js-must-watch#readme)
-	- [Tips](https://github.com/todo/loverajoel/jstips#readme)
-	- [Network Layer](https://github.com/todo/Kikobeats/hot-network-js#readme)
-	- [Micro npm Packages](https://github.com/todo/parro-it/hot-micro-npm-packages#readme)
-	- [Mad Science npm Packages](https://github.com/todo/feross/hot-mad-science#readme) - Impossible sounding projects that exist.
-	- [Maintenance Modules](https://github.com/todo/maxogden/maintenance-modules#readme) - For npm packages.
-	- [npm](https://github.com/todo/lehungio/hot-npm#readme) - Package manager.
-	- [AVA](https://github.com/todo/avajs/hot-ava#readme) - Test runner.
-	- [ESLint](https://github.com/todo/dustinspecker/hot-eslint#readme) - Linter.
-	- [Functional Programming](https://github.com/todo/stoeffel/hot-fp-js#readme)
-	- [Observables](https://github.com/todo/lehungio/hot-observables#readme)
-	- [npm scripts](https://github.com/todo/RyanZim/hot-npm-scripts#readme) - Task runner.
-	- [30 Seconds of Code](https://github.com/todo/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-	- [Ponyfills](https://github.com/todo/Richienb/hot-ponyfills#readme) - Like polyfills but without overriding native APIs.
-- [Swift](https://github.com/todo/matteocrippa/hot-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
-	- [Education](https://github.com/todo/hsavit1/hot-Swift-Education#readme)
-	- [Playgrounds](https://github.com/todo/uraimo/hot-Swift-Playgrounds#readme)
-- [Python](https://github.com/todo/vinta/hot-python#readme) - General-purpose programming language designed for readability.
-	- [Asyncio](https://github.com/todo/timofurrer/hot-asyncio#readme) - Asynchronous I/O in Python 3.
-	- [Scientific Audio](https://github.com/todo/faroit/hot-python-scientific-audio#readme) - Scientific research in audio/music.
-	- [CircuitPython](https://github.com/todo/adafruit/hot-circuitpython#readme) - A version of Python for microcontrollers.
-	- [Data Science](https://github.com/todo/krzjoa/hot-python-data-science#readme) - Data analysis and machine learning.
-	- [Typing](https://github.com/todo/typeddjango/hot-python-typing#readme) - Optional static typing for Python.
-	- [MicroPython](https://github.com/todo/mcauser/hot-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
-- [Rust](https://github.com/todo/rust-unofficial/hot-rust#readme)
- 	- [Pest](https://github.com/todo/pest-parser/hot-pest#readme) - Parser generator.
-- [Haskell](https://github.com/todo/krispo/hot-haskell#readme)
-- [PureScript](https://github.com/todo/passy/hot-purescript#readme)
-- [Go](https://github.com/todo/avelino/hot-go#readme)
-- [Scala](https://github.com/todo/lauris/hot-scala#readme)
-	- [Scala Native](https://github.com/todo/tindzk/hot-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
-- [Ruby](https://github.com/todo/markets/hot-ruby#readme)
-- [Clojure](https://github.com/todo/razum2um/hot-clojure#readme)
-- [ClojureScript](https://github.com/todo/hantuzun/hot-clojurescript#readme)
-- [Elixir](https://github.com/todo/h4cc/hot-elixir#readme)
-- [Elm](https://github.com/todo/sporto/hot-elm#readme)
-- [Erlang](https://github.com/todo/drobakowski/hot-erlang#readme)
-- [Julia](https://github.com/todo/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
-- [Lua](https://github.com/todo/LewisJEllis/hot-lua#readme)
-- [C](https://github.com/todo/inputsh/hot-c#readme)
-- [C/C++](https://github.com/todo/fffaraz/hot-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
-- [R](https://github.com/todo/qinwf/hot-R#readme) - Functional programming language and environment for statistical computing and graphics.
-	- [Learning](https://github.com/todo/iamericfletcher/hot-r-learning-resources#readme)
-- [D](https://github.com/todo/dlang-community/hot-d#readme)
-- [Common Lisp](https://github.com/todo/CodyReichert/hot-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
-	- [Learning](https://github.com/todo/GustavBertram/hot-common-lisp-learning#readme)
-- [Perl](https://github.com/todo/hachiojipm/hot-perl#readme)
-- [Groovy](https://github.com/todo/kdabir/hot-groovy#readme)
-- [Dart](https://github.com/todo/yissachar/hot-dart#readme)
-- [Java](https://github.com/todo/akullpp/hot-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
-	- [RxJava](https://github.com/todo/eleventigers/hot-rxjava#readme)
-- [Kotlin](https://github.com/todo/KotlinBy/hot-kotlin#readme)
-- [OCaml](https://github.com/todo/ocaml-community/hot-ocaml#readme)
-- [ColdFusion](https://github.com/todo/seancoyne/hot-coldfusion#readme)
-- [Fortran](https://github.com/todo/rabbiabram/hot-fortran#readme)
-- [PHP](https://github.com/todo/ziadoz/hot-php#readme) - Server-side scripting language.
-	- [Composer](https://github.com/todo/jakoch/hot-composer#readme) - Package manager.
-- [Pascal](https://github.com/todo/Fr0sT-Brutal/hot-pascal#readme)
+- [Ada/SPARK](https://github.com/todo/ohenley/hot-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+- [ActionScript 3](https://github.com/todo/robinrodricks/hot-actionscript3#readme) - Object-oriented language targeting Adobe AIR.
 - [AutoHotkey](https://github.com/todo/ahkscript/hot-AutoHotkey#readme)
 - [AutoIt](https://github.com/todo/J2TeaM/hot-AutoIt#readme)
-- [Crystal](https://github.com/todo/veelenga/hot-crystal#readme)
-- [Frege](https://github.com/todo/sfischer13/hot-frege#readme) - Haskell for the JVM.
+- [C](https://github.com/todo/inputsh/hot-c#readme)
+- [C/C++](https://github.com/todo/fffaraz/hot-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 - [CMake](https://github.com/todo/onqtam/hot-cmake#readme) - Build, test, and package software.
-- [ActionScript 3](https://github.com/todo/robinrodricks/hot-actionscript3#readme) - Object-oriented language targeting Adobe AIR.
-- [Eta](https://github.com/todo/sfischer13/hot-eta#readme) - Functional programming language for the JVM.
-- [Idris](https://github.com/todo/joaomilho/hot-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
-- [Ada/SPARK](https://github.com/todo/ohenley/hot-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
-- [Q#](https://github.com/todo/ebraminio/hot-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
-- [Imba](https://github.com/todo/koolamusic/hot-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
-- [Vala](https://github.com/todo/desiderantes/hot-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
+- [Clojure](https://github.com/todo/razum2um/hot-clojure#readme)
+- [ClojureScript](https://github.com/todo/hantuzun/hot-clojurescript#readme)
+- [ColdFusion](https://github.com/todo/seancoyne/hot-coldfusion#readme)
+- [Common Lisp](https://github.com/todo/CodyReichert/hot-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
+  - [Learning](https://github.com/todo/GustavBertram/hot-common-lisp-learning#readme)
 - [Coq](https://github.com/todo/coq-community/hot-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
-- [V](https://github.com/todo/vlang/hot-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
-- [Zig](https://github.com/todo/catdevnull/hot-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [Move](https://github.com/todo/MystenLabs/hot-move#readme) - Domain-specific programming language for writing safe smart contracts.
+- [Crystal](https://github.com/todo/veelenga/hot-crystal#readme)
+- [D](https://github.com/todo/dlang-community/hot-d#readme)
+- [Dart](https://github.com/todo/yissachar/hot-dart#readme)
+- [Erlang](https://github.com/todo/drobakowski/hot-erlang#readme)
+- [Elixir](https://github.com/todo/h4cc/hot-elixir#readme)
+- [Elm](https://github.com/todo/sporto/hot-elm#readme)
 - [Esolangs](https://github.com/todo/angrykoala/hot-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
+- [Eta](https://github.com/todo/sfischer13/hot-eta#readme) - Functional programming language for the JVM.
+- [Fortran](https://github.com/todo/rabbiabram/hot-fortran#readme)
+- [Frege](https://github.com/todo/sfischer13/hot-frege#readme) - Haskell for the JVM.
+- [Go](https://github.com/todo/avelino/hot-go#readme)
+- [Groovy](https://github.com/todo/kdabir/hot-groovy#readme)
+- [Haskell](https://github.com/todo/krispo/hot-haskell#readme)
+- [Idris](https://github.com/todo/joaomilho/hot-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [Imba](https://github.com/todo/koolamusic/hot-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
+- [Java](https://github.com/todo/akullpp/hot-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
+  - [RxJava](https://github.com/todo/eleventigers/hot-rxjava#readme)
+- [JavaScript](https://github.com/todo/sorrycc/hot-javascript#readme)
+  - [30 Seconds of Code](https://github.com/todo/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+  - [AVA](https://github.com/todo/avajs/hot-ava#readme) - Test runner.
+  - [ESLint](https://github.com/todo/dustinspecker/hot-eslint#readme) - Linter.
+  - [Functional Programming](https://github.com/todo/stoeffel/hot-fp-js#readme)
+  - [Mad Science npm Packages](https://github.com/todo/feross/hot-mad-science#readme) - Impossible sounding projects that exist.
+  - [Maintenance Modules](https://github.com/todo/maxogden/maintenance-modules#readme) - For npm packages.
+  - [Micro npm Packages](https://github.com/todo/parro-it/hot-micro-npm-packages#readme)
+  - [Must Watch Talks](https://github.com/todo/bolshchikov/js-must-watch#readme)
+  - [Network Layer](https://github.com/todo/Kikobeats/hot-network-js#readme)
+  - [npm](https://github.com/todo/lehungio/hot-npm#readme) - Package manager.
+  - [npm scripts](https://github.com/todo/RyanZim/hot-npm-scripts#readme) - Task runner.
+  - [Observables](https://github.com/todo/lehungio/hot-observables#readme)
+  - [Ponyfills](https://github.com/todo/Richienb/hot-ponyfills#readme) - Like polyfills but without overriding native APIs.
+  - [Promises](https://github.com/todo/wbinnssmith/hot-promises#readme)
+  - [Standard Style](https://github.com/todo/standard/hot-standard#readme) - Style guide and linter.
+  - [Tips](https://github.com/todo/loverajoel/jstips#readme)
+- [Julia](https://github.com/todo/svaksha/Julia.jl#readme) - High-level dynamic programming language designed for high-performance numerical analysis and computational science.
+- [Kotlin](https://github.com/todo/KotlinBy/hot-kotlin#readme)
+- [Lua](https://github.com/todo/LewisJEllis/hot-lua#readme)
+- [Move](https://github.com/todo/MystenLabs/hot-move#readme) - Domain-specific programming language for writing safe smart contracts.
+- [OCaml](https://github.com/todo/ocaml-community/hot-ocaml#readme)
+- [Pascal](https://github.com/todo/Fr0sT-Brutal/hot-pascal#readme)
+- [Perl](https://github.com/todo/hachiojipm/hot-perl#readme)
+- [PHP](https://github.com/todo/ziadoz/hot-php#readme) - Server-side scripting language.
+  - [Composer](https://github.com/todo/jakoch/hot-composer#readme) - Package manager.
+- [PureScript](https://github.com/todo/passy/hot-purescript#readme)
+- [Python](https://github.com/todo/vinta/hot-python#readme) - General-purpose programming language designed for readability.
+  - [Asyncio](https://github.com/todo/timofurrer/hot-asyncio#readme) - Asynchronous I/O in Python 3.
+  - [CircuitPython](https://github.com/todo/adafruit/hot-circuitpython#readme) - A version of Python for microcontrollers.
+  - [Data Science](https://github.com/todo/krzjoa/hot-python-data-science#readme) - Data analysis and machine learning.
+  - [MicroPython](https://github.com/todo/mcauser/hot-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+  - [Scientific Audio](https://github.com/todo/faroit/hot-python-scientific-audio#readme) - Scientific research in audio/music.
+  - [Typing](https://github.com/todo/typeddjango/hot-python-typing#readme) - Optional static typing for Python.
+- [Q#](https://github.com/todo/ebraminio/hot-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+- [R](https://github.com/todo/qinwf/hot-R#readme) - Functional programming language and environment for statistical computing and graphics.
+  - [Learning](https://github.com/todo/iamericfletcher/hot-r-learning-resources#readme)
+- [Ruby](https://github.com/todo/markets/hot-ruby#readme)
+- [Rust](https://github.com/todo/rust-unofficial/hot-rust#readme)
+  - [Pest](https://github.com/todo/pest-parser/hot-pest#readme) - Parser generator.
+- [Scala](https://github.com/todo/lauris/hot-scala#readme)
+  - [Scala Native](https://github.com/todo/tindzk/hot-sc
 
 <br>
 <hr>
-<br>
 <br>
 <!-- Banner -->
 </a>
 <br>
 <br>
 <hr>
-<br>
 
 ## Front-End Development
 
